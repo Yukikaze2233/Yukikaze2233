@@ -9,10 +9,9 @@
 
 </div>
 
-🚀 Algorithm Engineer at **RoboMaster Team Alliance**, Nanjing University of Science and Technology (NJUST)
-🛠️ Focused on **Robotics** & **Computer Vision** — real-time control, sensor fusion & multi-sensor perception for autonomous ground robots
-💻 Building end-to-end systems with **C++23 / ROS2**, from EKF/GICP estimation and MPC/ADRC control to CUDA-accelerated vision pipelines and Rust GUIs
-🏆 2025 RoboMaster 联盟赛（上海站）冠军 · 2024 全国大学生工程机器人大赛全国二等奖
+🚀 Algorithm Engineer at **RoboMaster Team Alliance**, Nanjing University of Science and Technology (NJUST).
+🛠️ Specialized in **Robotics** & **Computer Vision**, currently focusing on high-performance control systems and sensor fusion for Robot.
+💻 Passionate about **C++**, **Robotics Control & Sensor Fusion**, and building robust autonomous systems.
 
 ---
 
