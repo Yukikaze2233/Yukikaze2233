@@ -10,7 +10,7 @@
 </div>
 
 🚀 Algorithm Engineer at **RoboMaster Team Alliance**, Nanjing University of Science and Technology (NJUST).
-🛠️ Specialized in **Robotics** & **Computer Vision**, currently focusing on high-performance control systems and sensor fusion for Robot.
+🛠️ Specialized in **Robotics** & **Computer Vision**, currently focusing on perception, multi-sensor fusion, and high-performance control systems for Robot.
 💻 Passionate about **C++**, **Robotics Control & Sensor Fusion**, and building robust autonomous systems.
 
 ---
