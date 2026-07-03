@@ -2,6 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/Yukikaze2233/Yukikaze2233/main/assets/banner.svg" width="100%"/>
 
+<img src="https://avatars.githubusercontent.com/u/146398159?v=4" width="120"/>
+<img src="https://raw.githubusercontent.com/Yukikaze2233/Yukikaze2233/main/assets/pendant.png" width="120"/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Yukikaze2233-181717?style=for-the-badge&logo=github)](https://github.com/Yukikaze2233)
 [![Mail](https://img.shields.io/badge/Mail-yingziyuw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yingziyuw@gmail.com)
 [![Homepage](https://img.shields.io/badge/Homepage-yukikaze.dev-6E5CE6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Yukikaze2233/homepage)
