@@ -58,18 +58,6 @@
 
 ---
 
-### 🛰️ Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[RMCS](https://github.com/Alliance-Algorithm/RMCS)** | 无下位机 ROS2 机器人控制框架，YAML 声明式装配 + 零拷贝共享内存通信，统一代码仓库管理全兵种 | `C++23` `ROS2` `Eigen` `Docker` |
-| **[deformable-infantry](https://github.com/Yukikaze2233/deformable-infantry)** | 主动悬挂变形步兵机器人，梯形连杆运动学 + ADRC 关节控制 + MPC 主动悬挂，Isaac Sim 仿真验证后实车部署 | `C++23` `ROS2` `MPC/ADRC` `Isaac Sim` |
-| **[laser_guidance](https://github.com/Yukikaze2233/laser_guidance)** | 视觉引导激光振镜命中移动目标的实时系统，YOLO+TensorRT 推理管线 + EKF 跟踪 + FT4222H SPI 振镜控制 | `C++23` `CUDA` `TensorRT` `OpenCV` |
-| **[alliance_radar_location_lidar](https://github.com/HarryPotter1tech/alliance_radar_location_lidar)** | 固态 LiDAR 定位系统，GICP 扫描匹配 + 视觉融合定位 + Kalman 多目标跟踪 | `C++23` `ROS2 Jazzy` `PCL` `GTSAM` |
-| **[radar-egui](https://github.com/Yukikaze2233/radar-egui)** | Rust + egui 比赛实时雷达 HUD，承担比赛顶层进程控制，自解析二进制比赛协议 | `Rust` `egui` `Tokio` `Rerun` |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
