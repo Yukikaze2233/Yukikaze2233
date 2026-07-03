@@ -1,30 +1,80 @@
 <div align="center">
 
-# Hi, I'm Yukikaze 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd34fe,50:e0321b,100:41d1ff&height=200&section=header&text=Yukikaze&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Algorithm%20Engineer%20%40%20RoboMaster%20Team%20Alliance,%20NJUST&descAlignY=58&descSize=18" width="100%"/>
 
-🚀 Algorithm Engineer at **RoboMaster Team Alliance**, Nanjing University of Science and Technology (NJUST)
-🛠️ Focused on **Robotics** & **Computer Vision** — control systems and sensor fusion for autonomous robots
-💻 Building with **C++**, ROS2, and real-time perception pipelines
-
-[![GitHub](https://img.shields.io/badge/GitHub-Yukikaze2233-181717?style=flat&logo=github)](https://github.com/Yukikaze2233)
-[![Mail](https://img.shields.io/badge/Mail-yingziyuw%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yingziyuw@gmail.com)
-[![Homepage](https://img.shields.io/badge/Homepage-yukikaze.dev-6E5CE6?style=flat&logo=googlechrome&logoColor=white)](https://github.com/Yukikaze2233/homepage)
+[![GitHub](https://img.shields.io/badge/GitHub-Yukikaze2233-181717?style=for-the-badge&logo=github)](https://github.com/Yukikaze2233)
+[![Mail](https://img.shields.io/badge/Mail-yingziyuw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yingziyuw@gmail.com)
+[![Homepage](https://img.shields.io/badge/Homepage-yukikaze.dev-6E5CE6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Yukikaze2233/homepage)
+[![Alliance-Algorithm](https://img.shields.io/badge/Org-Alliance--Algorithm-7c3aed?style=for-the-badge&logo=github)](https://github.com/Alliance-Algorithm)
 
 </div>
+
+🚀 Algorithm Engineer at **RoboMaster Team Alliance**, Nanjing University of Science and Technology (NJUST)
+🛠️ Focused on **Robotics** & **Computer Vision** — real-time control, sensor fusion & multi-sensor perception for autonomous ground robots
+💻 Building end-to-end systems with **C++23 / ROS2**, from EKF/GICP estimation and MPC/ADRC control to CUDA-accelerated vision pipelines and Rust GUIs
+🏆 2025 RoboMaster 联盟赛（上海站）冠军 · 2024 全国大学生工程机器人大赛全国二等奖
 
 ---
 
 ### 🧰 Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,python,ros,linux,docker,cmake,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,python,typescript" />
 </p>
+
+**Robotics & Vision**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ros,opencv,pytorch" />
+  <img height="48" src="https://img.shields.io/badge/Eigen-CC2B5E?style=for-the-badge&logoColor=white" />
+  <img height="48" src="https://img.shields.io/badge/PCL-3776AB?style=for-the-badge&logoColor=white" />
+  <img height="48" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img height="48" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img height="48" src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img height="48" src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
+  <img height="48" src="https://img.shields.io/badge/GTSAM-orange?style=for-the-badge" />
+</p>
+
+**Control & Estimation**
+<p align="left">
+  <img height="48" src="https://img.shields.io/badge/PID%20%2F%20ADRC%20%2F%20MPC%20%2F%20SMC-informational?style=for-the-badge" />
+  <img height="48" src="https://img.shields.io/badge/EKF%20%2F%20Kalman%20Filter-informational?style=for-the-badge" />
+  <img height="48" src="https://img.shields.io/badge/GICP%20Scan%20Matching-informational?style=for-the-badge" />
+  <img height="48" src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+**Systems & Infra**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,githubactions,vscode,arch,vim,bash" />
+</p>
+
+**Debug & Visualization**
+<p align="left">
+  <img height="48" src="https://img.shields.io/badge/Foxglove-6F42C1?style=for-the-badge" />
+  <img height="48" src="https://img.shields.io/badge/RViz2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img height="48" src="https://img.shields.io/badge/Rerun-FF7043?style=for-the-badge" />
+  <img height="48" src="https://img.shields.io/badge/egui%20%2F%20Tokio-DEA584?style=for-the-badge&logo=rust&logoColor=black" />
+</p>
+
+---
+
+### 🛰️ Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[RMCS](https://github.com/Alliance-Algorithm/RMCS)** | 无下位机 ROS2 机器人控制框架，YAML 声明式装配 + 零拷贝共享内存通信，统一代码仓库管理全兵种 | `C++23` `ROS2` `Eigen` `Docker` |
+| **[deformable-infantry](https://github.com/Yukikaze2233/deformable-infantry)** | 主动悬挂变形步兵机器人，梯形连杆运动学 + ADRC 关节控制 + MPC 主动悬挂，Isaac Sim 仿真验证后实车部署 | `C++23` `ROS2` `MPC/ADRC` `Isaac Sim` |
+| **[laser_guidance](https://github.com/Yukikaze2233/laser_guidance)** | 视觉引导激光振镜命中移动目标的实时系统，YOLO+TensorRT 推理管线 + EKF 跟踪 + FT4222H SPI 振镜控制 | `C++23` `CUDA` `TensorRT` `OpenCV` |
+| **[alliance_radar_location_lidar](https://github.com/HarryPotter1tech/alliance_radar_location_lidar)** | 固态 LiDAR 定位系统，GICP 扫描匹配 + 视觉融合定位 + Kalman 多目标跟踪 | `C++23` `ROS2 Jazzy` `PCL` `GTSAM` |
+| **[radar-egui](https://github.com/Yukikaze2233/radar-egui)** | Rust + egui 比赛实时雷达 HUD，承担比赛顶层进程控制，自解析二进制比赛协议 | `Rust` `egui` `Tokio` `Rerun` |
+
+---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yukikaze2233&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukikaze2233&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yukikaze2233&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukikaze2233&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -34,3 +84,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yukikaze2233/Yukikaze2233/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yukikaze2233/Yukikaze2233/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41d1ff,50:e0321b,100:bd34fe&height=100&section=footer" width="100%"/>
