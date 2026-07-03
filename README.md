@@ -2,8 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Yukikaze2233/Yukikaze2233/main/assets/banner.svg" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/146398159?v=4" width="120"/>
-<img src="https://raw.githubusercontent.com/Yukikaze2233/Yukikaze2233/main/assets/pendant.png" width="120"/>
+<img src="https://raw.githubusercontent.com/Yukikaze2233/Yukikaze2233/main/assets/avatar_composite.png" width="150"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yukikaze2233-181717?style=for-the-badge&logo=github)](https://github.com/Yukikaze2233)
 [![Mail](https://img.shields.io/badge/Mail-yingziyuw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yingziyuw@gmail.com)
@@ -22,10 +21,10 @@
 
 **Languages & Core Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,py,ts,ros,opencv,pytorch,linux,arch,docker,cmake,git,githubactions,vim,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,py,ts,dart,ros,opencv,pytorch,qt,flutter,linux,arch,docker,cmake,git,githubactions,vim,bash" />
 </p>
 
-**Robotics & Vision (专业库补充)**
+**Robotics & Vision**
 <p align="left">
   <img height="32" src="https://img.shields.io/badge/Eigen-CC2B5E?style=flat-square&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/PCL-4479A1?style=flat-square&logoColor=white" />
