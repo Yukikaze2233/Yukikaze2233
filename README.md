@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yukikaze2233/Yukikaze2233/main/assets/banner.svg" width="100%"/>
-
 <img src="https://raw.githubusercontent.com/Yukikaze2233/Yukikaze2233/main/assets/avatar_composite.png" width="150"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yukikaze2233-181717?style=for-the-badge&logo=github)](https://github.com/Yukikaze2233)
