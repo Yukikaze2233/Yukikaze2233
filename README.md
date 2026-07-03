@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yukikaze2233-181717?style=for-the-badge&logo=github)](https://github.com/Yukikaze2233)
 [![Mail](https://img.shields.io/badge/Mail-yingziyuw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yingziyuw@gmail.com)
-[![Homepage](https://img.shields.io/badge/Homepage-yukikaze.dev-6E5CE6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Yukikaze2233/homepage)
+[![Homepage](https://img.shields.io/badge/Homepage-yukikaze2233.github.io-6E5CE6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yukikaze2233.github.io/homepage/)
 [![Alliance-Algorithm](https://img.shields.io/badge/Org-Alliance--Algorithm-7c3aed?style=for-the-badge&logo=github)](https://github.com/Alliance-Algorithm)
 
 </div>
@@ -53,13 +53,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats-psi-rust.vercel.app/api?username=Yukikaze2233&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-psi-rust.vercel.app/api/top-langs/?username=Yukikaze2233&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ### 🐍 Contribution Snake
 
