@@ -11,9 +11,9 @@
 
 🚀 Algorithm Engineer at **RoboMaster Team Alliance**, Nanjing University of Science and Technology (NJUST).
 <br/>
-🛠️ Specialized in **Robotics** & **Computer Vision**, currently focusing on perception, multi-sensor fusion, and high-performance control systems for Robot.
+🛠️ Tech stack: **C++** · **Python** · **ROS 2** · **PyTorch** · **OpenCV** · **Linux**.
 <br/>
-💻 Passionate about **C++**, **Robotics Control & Sensor Fusion**, and building robust autonomous systems.
+💻 Currently learning **Neural Networks (NN)** and deep learning, exploring how to apply them to robotics.
 
 ---
 
@@ -33,7 +33,6 @@
   <img height="32" src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/GTSAM-D2691E?style=flat-square&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 </p>
 
 **Control & Estimation**
@@ -41,6 +40,11 @@
   <img height="32" src="https://img.shields.io/badge/PID%20·%20ADRC%20·%20MPC%20·%20SMC-2b2b2b?style=flat-square&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/EKF%20·%20Kalman%20Filter-2b2b2b?style=flat-square&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/GICP%20Scan%20Matching-2b2b2b?style=flat-square&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Isaac%20Sim%20·%20Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/MuJoCo-1F2937?style=flat-square&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/RL%20·%20PPO-2b2b2b?style=flat-square&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Sim2Real-2b2b2b?style=flat-square&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/ros2__control-22314E?style=flat-square&logo=ros&logoColor=white" />
 </p>
 
 **Debug & Visualization**
@@ -51,6 +55,15 @@
   <img height="32" src="https://img.shields.io/badge/Tokio-2b2b2b?style=flat-square&logo=tokio&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/egui-DEA584?style=flat-square&logo=rust&logoColor=black" />
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+- **[transformer_rl](https://github.com/Yukikaze2233/transformer_rl)** — Transformer · PPO · PyTorch · ONNX
+- **[isaac_wheeled_rl_train](https://github.com/Yukikaze2233/isaac_wheeled_rl_train)** — Isaac Lab · RL · Sim2Sim
+- **[rmcs_rl](https://github.com/Yukikaze2233/rmcs_rl)** — ROS 2 · ONNX Runtime · RL
+- **[wheeled-biped-rl-deploy](https://github.com/Yukikaze2233/wheeled-biped-rl-deploy)** — ros2_control · MuJoCo · Sim2Real
 
 ---
 
