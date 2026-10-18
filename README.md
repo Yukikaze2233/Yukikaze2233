@@ -13,7 +13,7 @@
 <br/>
 🛠️ Tech stack: **C++** · **Python** · **ROS 2** · **PyTorch** · **OpenCV** · **Linux**.
 <br/>
-💻 Currently learning **Neural Networks (NN)** and deep learning, exploring how to apply them to robotics.
+💻 Focused on **Neural Networks (NN)** and deep learning for robotics.
 
 ---
 
