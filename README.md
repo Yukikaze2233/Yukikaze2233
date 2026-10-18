@@ -31,10 +31,8 @@
   <img height="32" src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/GTSAM-D2691E?style=flat-square&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Ceres%20Solver-D2691E?style=flat-square&logoColor=white" />
 </p>
 
 **Control & Estimation**
@@ -42,15 +40,15 @@
   <img height="32" src="https://img.shields.io/badge/PID%20·%20ADRC%20·%20MPC%20·%20SMC-2b2b2b?style=flat-square&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/EKF%20·%20Kalman%20Filter-2b2b2b?style=flat-square&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/GICP%20Scan%20Matching-2b2b2b?style=flat-square&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/SO(3)%20%2F%20SE(3)-2b2b2b?style=flat-square&logoColor=white" />
+</p>
+
+**Learning & Simulation**
+<p align="left">
   <img height="32" src="https://img.shields.io/badge/Neural%20Networks%20(NN)-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Transformer-FF6F00?style=flat-square&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Reinforcement%20Learning-2b2b2b?style=flat-square&logoColor=white" />
+  <img height="32" src="https://img.shields.io/badge/Isaac%20Sim%20·%20Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/MuJoCo-1F2937?style=flat-square&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/RL%20·%20PPO-2b2b2b?style=flat-square&logoColor=white" />
   <img height="32" src="https://img.shields.io/badge/Sim2Real-2b2b2b?style=flat-square&logoColor=white" />
-  <img height="32" src="https://img.shields.io/badge/ros2__control-22314E?style=flat-square&logo=ros&logoColor=white" />
 </p>
 
 **Debug & Visualization**
